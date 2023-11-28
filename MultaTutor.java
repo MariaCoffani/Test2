@@ -1,4 +1,4 @@
-public class MultaTutor {
+public class MultaTutor { //PROVA
     private String Automobile;
     private String Targa;
     private double Tempo=0;
